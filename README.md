@@ -53,6 +53,7 @@ Activate environment:
 env\Scripts\activate
 
 ### Install Requirements
+Navigate to the `app` folder and run:
 
 pip install -r requirements.txt
 
