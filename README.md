@@ -55,7 +55,7 @@ env\Scripts\activate
 ### Install Requirements
 Navigate to the `books-management` folder and run:
 
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 ## 🗄️ Database Migrations
 
