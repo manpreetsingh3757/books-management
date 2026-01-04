@@ -53,7 +53,7 @@ Activate environment:
 env\Scripts\activate
 
 ### Install Requirements
-Navigate to the `app` folder and run:
+Navigate to the `books-management` folder and run:
 
 pip install -r requirements.txt
 
