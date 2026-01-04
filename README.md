@@ -94,7 +94,7 @@ http://localhost:8000/docs
 Run test cases using the following commands:
 
 User module:  
-pytest -v tests/users_tests.py
+pytest -v tests/user_tests.py
 
 Book module:  
 pytest -v tests/books_tests.py
