@@ -102,6 +102,10 @@ pytest -v tests/books_tests.py
 Review module:  
 pytest -v tests/review_tests.py
 
+## ▶️ Run the Project
+
+uvicorn main:app --reload
+
 ## 🔐 API Testing
 
 First, create a user:
