@@ -81,8 +81,6 @@ AI_MODEL="your_preferred_model"
 
 ## ▶️ Run the Project
 
-Navigate to the `app` folder and run:
-
 uvicorn main:app --reload
 
 ## 📖 API Documentation
