@@ -33,8 +33,8 @@ The project contains 5 modules:
 
 Add the following details in the `.env` file:
 
-DATABASE_URL="postgresql+asyncpg://postgres:database_user_name@localhost:5432/database_name"  
-DATABASE_URL_SYNC="postgresql+psycopg://postgres:database_user_name@localhost:5432/database_name"
+DATABASE_URL="postgresql+asyncpg://database_username:database_password@localhost:5432/database_name"  
+DATABASE_URL_SYNC="postgresql+psycopg://database_username:database_password@localhost:5432/database_name"
 
 Replace the database configuration with your own database details.
 
