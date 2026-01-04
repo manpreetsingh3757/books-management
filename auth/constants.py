@@ -1,0 +1,5 @@
+INVALID_EMAIL = "Email not exist"
+INVALID_PASSWORD = "Invalid password"
+USER_INACTIVE = "User is not active"
+INVALID_AUTH_TOKEN = "Invalid authentication token"
+INACTIVE_USER = "User not found or inactive"
